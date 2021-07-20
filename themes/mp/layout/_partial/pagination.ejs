@@ -1,0 +1,11 @@
+<nav>
+  <% if (page.prev){ %>
+  <a class="left-arrow" href="<%- config.root %><%- page.prev_link %>"
+    ><img src="/img/left.svg"
+  /></a>
+  <% } %> <span class="page-number"><%= page.current %></span> <% if (page.next){ %>
+  <a class="right-arrow" href="<%- config.root %><%- page.next_link %>"
+    ><img src="/img/right.svg"
+  /></a>
+  <% } %>
+</nav>
