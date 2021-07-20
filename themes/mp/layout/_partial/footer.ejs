@@ -1,9 +1,0 @@
-<footer>
-    <!-- HOME | ABOUT | CONTACT -->
-    <% for (var item in theme.menu){ %>
-        <a class="blog-nav-item" href="<%- url_for(theme.menu[item]) %>"><%= item %></a>
-        <% if (item != 'Contact'){ %>
-        <div class="link-seperator"></div>
-        <% } %>
-    <% } %>
-</footer>
