@@ -4,10 +4,10 @@ title: What To Do
 Again in the kitchen
 Bottoms up
 Feelings down
-unload your day
+Unload your day
 They’ll be forgiven
-load the washer 
+Load the washer 
 A glass of water
-what to do
-with my hours 
+What to do
+With my hours 
 Not spent with you
