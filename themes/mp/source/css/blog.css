@@ -8,6 +8,10 @@ header {
   margin-top: 100px;
   margin-bottom: 50px;
 }
+.header-logo{
+  width: 200px;
+  height: auto;
+}
 
 .post-title {
   font-size: 18px;
