@@ -1,1 +1,1 @@
-Words to live by
+An aquired taste & updated every fuckin' Sunday
