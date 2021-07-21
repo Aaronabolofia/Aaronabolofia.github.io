@@ -1,1 +1,1 @@
-An aquired taste & updated every fuckin' Sunday
+An aquired taste updated every Sunday
