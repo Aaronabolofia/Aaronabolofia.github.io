@@ -2,7 +2,7 @@
 title: Disco
 ---
 Disco and banana bread
-Rosie cheeks from tears shed
+Rosy cheeks from tears shed
 
 I won’t dance unless you’re holding me
 Cautious steps and wobbly knees 
