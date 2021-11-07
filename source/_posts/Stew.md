@@ -10,8 +10,8 @@ My words are shit
 But not to you
 
 Take a peek 
-to see my week
-there isn’t much new
+To see my week
+There isn’t much new
 
 Digest and dissect
 We’ll chat short after
