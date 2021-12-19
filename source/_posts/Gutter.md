@@ -1,0 +1,4 @@
+---
+title: Gutter
+---
+The sound machine can’t drown out the ringing in my ears. The fake waves just bounce off my forehead. Tones are beginning to ferment together like leaves stuck in the gutter from so many seasons ago. My arm reaches down. Inside the gutter from the second story. I don’t know how, but I’m now looking at my finger tips protruding from the open bottom end of the gutter on the ground below me. That must be 20, maybe 24 feet away. Is my arm really that long? I’m now terrified that I have disfigured myself trying to clean the gutters. How will I tell them this was my own doing? Is there blood? Then the waves wash over me.
